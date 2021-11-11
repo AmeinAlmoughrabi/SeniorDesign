@@ -11,8 +11,8 @@ Sincerely,
 *Amein Almoughrabi*
 
 
-> I hear and I forget /n
-> I see and I remember /n
+> I hear and I forget  
+  > I see and I remember
 > I do and I understand
 > 
 > Confucius 
