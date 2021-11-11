@@ -12,3 +12,5 @@ Sincerely,
 Labs Completed:
 
 *[x] ew
+*[] yes
+*[x] ok
