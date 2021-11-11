@@ -8,3 +8,7 @@ I also have a project site utilizing the [Google Sites platform](https://sites.g
 Sincerely,
 
 *Amein Almoughrabi*
+
+Labs Completed:
+
+*[x] ew
