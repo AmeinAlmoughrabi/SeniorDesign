@@ -7,13 +7,12 @@ This is where I will be placing periodic updates for my senior design projects a
 I also have a project site utilizing the [Google Sites platform](https://sites.google.com/view/seniordesign-amein/).
 
 Sincerely,
-
-*Amein Almoughrabi*
+  *Amein Almoughrabi*
 
 
 > I hear and I forget  
   > I see and I remember
-> I do and I understand
+  > I do and I understand
 > 
 > Confucius 
 
