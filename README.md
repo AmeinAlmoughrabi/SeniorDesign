@@ -19,10 +19,10 @@ Confucius
 Labs Completed:
 
 - [x] Lab 1 — GitHub Repository :tada:
-- [ ] Lab 2
-- [ ] Lab 3
-- [ ] Lab 4
-- [ ] Lab 5
+- [x] Lab 2 :tada:
+- [x] Lab 3 :tada:
+- [x] Lab 4 :tada:
+- [x] Lab 5 :tada:
 - [ ] Lab 6
 - [ ] Lab 7
 - [ ] Lab 8
